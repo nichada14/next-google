@@ -4,7 +4,7 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'logolook.net',
+                hostname: 'upload.wikimedia.org',
                 pathname: '**',
             },
         ],
